@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hello World! I'm Felipe Rodriguez 👨‍💻
 
-<!--
-**Faru1402/Faru1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 📚 Currently a Systems Engineering student at Universidad Minuto de Dios (Uniminuto).
+- 🌱 Passionate about technology, software development, and problem-solving.
+- 🚀 Constantly learning and exploring new technologies.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- 🐍 Python | 🚀 Django | FastApi
+- 🐹 Golang
+- 🌐 HTML | CSS | JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let's Connect
+- 📫 Reach me at felipedcp@gmail.co(mailto:felipedcp@gmail.com)
+- 🔗 LinkedIn: [Felipe Rodriguez](https://www.linkedin.com/in/felipe-andres-rodriguez-urriago-284429151/)
+
+
+## 🌟 Fun Facts
+- ✨ I love coding while sipping on a cup of ☕.
+- 🎮 In my free time, you can find me playing video games or exploring open-source projects.
